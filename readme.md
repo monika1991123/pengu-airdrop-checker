@@ -1,4 +1,4 @@
-# Pengu Airdrop Checker
+# Pengu Airdrop Checker （The Pudgy Penguins PENGU token claim API is currently closed, and the team is working on restoring it. Queries may result in errors while awaiting the fix）
 
 Python script to check Solana wallet addresses for Pengu airdrop eligibility using Selenium browser automation.
 
